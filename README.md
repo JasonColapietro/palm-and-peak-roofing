@@ -12,6 +12,8 @@ GitHub Pages serves the root of the `main` branch. The website is static HTML an
 
 ## Files
 
-- `index.html`: website markup and styling
+- `index.html`: homepage
+- `residential-roofing.html`, `roof-inspections.html`, `storm-restoration.html`: service pages
+- `styles.css`: shared responsive styles
 - `roofing-home.webp`: hero image
 - `.nojekyll`: serves the static files directly

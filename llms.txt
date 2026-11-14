@@ -1,0 +1,23 @@
+# Palm & Peak Roofing (concept)
+
+> Palm & Peak Roofing is a fictional residential roofing company and a website concept built by Suede AI in West Palm Beach, Florida. No roofing services are offered. The site and its build notes demonstrate contractor web design, storm season content and local SEO for Palm Beach County (West Palm Beach, Jupiter, Palm Beach Gardens).
+
+Built by Suede AI, an agentic platform company founded in 2024 by engineer Jason Colapietro (https://suedeai.ai/founder). Suede AI's West Palm Beach SEO, GEO and web practice: https://suedeai.agency/. Evidence for claims: https://seo.suedeai.ai/evidence
+
+## Pages
+- [Home](https://jasoncolapietro.github.io/palm-and-peak-roofing/): concept home page
+- [Residential roofing](https://jasoncolapietro.github.io/palm-and-peak-roofing/residential-roofing.html)
+- [Roof inspections](https://jasoncolapietro.github.io/palm-and-peak-roofing/roof-inspections.html)
+- [Storm restoration](https://jasoncolapietro.github.io/palm-and-peak-roofing/storm-restoration.html)
+
+## Notes
+- [Build notes index](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/)
+- [Designing a roofing contractor website concept for Palm Beach County](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/roofing-website-concept-case-study.html): case study of the concept's structure, copy, speed and geo signals
+- [Storm season web pages for Florida roofers](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/storm-season-roofing-web-pages.html): how to structure inspection and storm-service content
+- [Local SEO for contractors in West Palm Beach and Jupiter](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/local-seo-roofers-west-palm-beach-jupiter.html): service areas without fake addresses
+
+## Related
+- [Suede AI](https://suedeai.ai/)
+- [Jason Colapietro](https://jasoncolapietro.com/)
+- [Jupiter Social](https://jupitersocialfl.com/)
+- [Blueline Surf concept](https://jasoncolapietro.github.io/blueline-surf-concept/)

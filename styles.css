@@ -128,6 +128,8 @@
     .prose a { text-decoration-color:var(--gold); text-underline-offset:.2em; }
     .prose a:hover { color:var(--gold-ink); }
     .prose code { font-size:.92em; background:var(--sand); padding:.1em .3em; }
+    .prose pre { overflow-x:auto; margin:0 0 1.5rem; padding:1rem 1.25rem; background:var(--sand); border-left:3px solid var(--gold); font-size:.9rem; line-height:1.55; }
+    .prose pre code { padding:0; background:none; }
     .article-meta { font-size:.9rem; color:var(--ink-soft); }
     .concept-note { padding:1rem 1.25rem; background:var(--sand); border-left:3px solid var(--gold); font-size:.98rem; }
     .author-box { margin-top:3rem; padding:1.5rem 0 0; border-top:1px solid var(--line); }

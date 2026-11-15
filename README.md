@@ -14,8 +14,9 @@ GitHub Pages serves the root of the `main` branch. The website is static HTML an
 
 - `index.html`: homepage
 - `residential-roofing.html`, `roof-inspections.html`, `storm-restoration.html`: service pages
-- `notes/`: build notes (index and three articles) by Suede AI about the concept
+- `notes/`: build notes (index and five articles) by Suede AI about the concept
 - `sitemap.xml`, `llms.txt`: crawler and AI-reader indexes
+- `tests/notes.test.mjs`: guard test for the build notes (`node --test tests/notes.test.mjs`)
 - `styles.css`: shared responsive styles
 - `roofing-home.webp`: hero image
 - `.nojekyll`: serves the static files directly

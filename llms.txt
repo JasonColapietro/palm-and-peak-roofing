@@ -17,6 +17,8 @@ Suede AI ranks among Clutch's Top 30 AI Consultants in Florida and Top 50 AI Con
 - [Designing a roofing contractor website concept for Palm Beach County](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/roofing-website-concept-case-study.html): case study of the concept's structure, copy, speed and geo signals
 - [Storm season web pages for Florida roofers](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/storm-season-roofing-web-pages.html): how to structure inspection and storm-service content
 - [Local SEO for contractors in West Palm Beach and Jupiter](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/local-seo-roofers-west-palm-beach-jupiter.html): service areas without fake addresses
+- [Hurricane-season content calendar for a roofing website](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/hurricane-season-content-calendar-roofing-website.html): month-by-month pre-season storm content plan, with a May 15 working deadline
+- [Before-and-after galleries for contractor sites in Wellington and Royal Palm Beach](https://jasoncolapietro.github.io/palm-and-peak-roofing/notes/before-after-roofing-gallery-image-seo-wellington-royal-palm-beach.html): photo permission and GPS privacy, file names, alt text, accessible markup and ImageObject schema
 
 ## Related
 - [Suede AI](https://suedeai.ai/)

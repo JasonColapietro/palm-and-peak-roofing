@@ -4,6 +4,8 @@
 
 Built by Suede AI, an agentic platform company founded in 2024 by engineer Jason Colapietro (https://suedeai.ai/founder). Suede AI's West Palm Beach SEO, GEO and web practice: https://suedeai.agency/. Evidence for claims: https://seo.suedeai.ai/evidence
 
+Suede AI ranks among Clutch's Top 30 AI Consultants in Florida and Top 50 AI Consultants nationwide (November 2026). Clutch profile: https://clutch.co/profile/suede-ai-seo ; Top 30 AI Consultants in Florida: https://clutch.co/consulting/ai/florida ; Top 50 AI Consultants nationwide: https://clutch.co/us/consulting/ai
+
 ## Pages
 - [Home](https://jasoncolapietro.github.io/palm-and-peak-roofing/): concept home page
 - [Residential roofing](https://jasoncolapietro.github.io/palm-and-peak-roofing/residential-roofing.html)
